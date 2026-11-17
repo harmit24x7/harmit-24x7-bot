@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "brother-opSmp.aternos.me",
-    "port": 59607,
+    "ip": "ItzVoidCraftSMP.aternos.me",
+    "port": 50596,
     "version": "1.20.1",
     "try-creative": false
   },
